@@ -1,0 +1,29 @@
+# io_redirections_and_filters
+
+- 0-hello_world: Prints "Hello, World"
+- 1-confused_smiley: Displays a confused smiley
+- 2-hellofile: Displays the content of /etc/passwd
+- 3-twofiles: Displays the content of /etc/passwd and /etc/hosts
+- 4-lastlines: Displays the last 10 lines of /etc/passwd
+- 5-firstlines: Displays the first 10 lines of /etc/passwd
+- 6-third_line: Displays the third line of the file iacta
+- 7-file: Creates a file with a tricky name containing "Best School"
+- 8-cwd_state: Saves the output of ls -la into ls_cwd_content
+- 9-duplicate_last_line: Duplicates the last line of iacta
+- 10-no_more_js: Deletes all .js files recursively
+- 11-directories: Counts directories and subdirectories
+- 12-newest_files: Lists the 10 newest files, newest first
+- 13-unique: Prints words that appear exactly once, sorted
+- 14-findthatword: Displays lines containing "root" in /etc/passwd
+- 15-countthatword: Counts lines containing "bin" in /etc/passwd
+- 16-whatsnext: Displays lines with "root" plus 3 lines after
+- 17-hidethisword: Displays lines without "bin"
+- 18-letteronly: Displays lines starting with a letter
+- 19-AZ: Replaces A with Z and c with e
+- 20-hiago: Removes all c and C characters
+- 21-reverse: Reverses input
+- 22-users_and_homes: Lists users and home directories, sorted
+- 23-empty_casks: Lists empty files and directories recursively
+- 24-gifs: Lists .gif files without extension, sorted case-insensitively
+- 25-acrostic: Decodes an acrostic from stdin
+- 26-the_biggest_fan: Lists the 11 most active hosts from a TSV log
